@@ -16,6 +16,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "NoteHub",
     description: "Корисний застосунок для збереження ваших нотаток",
+    url: "https://notehub-public.goit.study",
     images: [
       {
         url: "https://ac.goit.global/fullstack/react/notehub-og-meta.jpg",
