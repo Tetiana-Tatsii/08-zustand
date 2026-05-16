@@ -9,7 +9,14 @@ export const metadata: Metadata = {
     title: "Створити нотатку | NoteHub",
     description: "Створіть нову нотатку та збережіть свої думки.",
     url: "https://notehub-public.goit.study/notes/action/create",
-    images: ["https://ac.goit.global/fullstack/react/notehub-og-meta.jpg"],
+    images: [
+      {
+        url: "https://ac.goit.global/fullstack/react/notehub-og-meta.jpg",
+        width: 1200,
+        height: 630,
+        alt: "NoteHub preview",
+      },
+    ],
   },
 };
 
